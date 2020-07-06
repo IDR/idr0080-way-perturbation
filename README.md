@@ -5,7 +5,7 @@
 ### idr-testing
 | Task | Duration | Checked |
 | :----: |:----:| :----:|
-| Images| -- | -- |
+| Images| 2d 5h | -- |
 | Rendering | -- | -- |
 | Annotations | -- | -- |
 
