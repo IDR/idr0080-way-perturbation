@@ -1,4 +1,4 @@
 ---
 target: "Screen:name:idr0080-way-perturbation/screenA"
 include: "../bulk.yml"
-path: "idr0080-screenA-plates.tsv"
+path: "test_illumcorrected.tsv"
