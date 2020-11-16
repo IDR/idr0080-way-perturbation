@@ -55,6 +55,7 @@ columns:
       columns:
         - name: Gene Identifier
           include: true
+          omitempty: false
         - name: Gene Identifier
           clientname: Gene Identifier URL
           clientvalue: >
@@ -62,6 +63,7 @@ columns:
           include: true
         - name: Gene Symbol
           include: true
+          omitempty: false
 
   - group:
       namespace: openmicroscopy.org/mapr/gene/supplementary
