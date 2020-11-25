@@ -1,0 +1,14 @@
+---
+channels:
+    1:
+        label: DNA
+    2:
+        label: endoplasmic reticulum
+    3:
+        label: nucleoli and cytoplasmic RNA
+    4:
+        label: AGP
+    5:
+        label: mitochondria
+greyscale: false
+version: 2
