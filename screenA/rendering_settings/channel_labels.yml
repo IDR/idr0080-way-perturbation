@@ -2,13 +2,18 @@
 channels:
     1:
         label: DNA
+        active: True
     2:
         label: endoplasmic reticulum
+        active: True
     3:
         label: nucleoli and cytoplasmic RNA
+        active: True
     4:
         label: AGP
+        active: False
     5:
         label: mitochondria
+        active: False
 greyscale: false
 version: 2
