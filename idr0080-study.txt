@@ -18,11 +18,11 @@ Study BioImage Archive Accession
 Study Public Release Date	2020-12-10
 
 # Study Publication
-Study PubMed ID	
+Study PubMed ID	33534641	
 Study Publication Title	Predicting cell health phenotypes using image-based morphology profiling
-Study Author List	Way GP, Kost-Alimova M, Shibue T, Harrington WF, Gill S, Piccioni F, Becker T, Hahn WC, Carpenter AE, Vazquez F, Singh S
+Study Author List	Way GP, Kost-Alimova M, Shibue T, Harrington WF, Gill S, Piccioni F, Becker T, Shafqat-Abbasi H, Hahn WC, Carpenter AE, Vazquez F, Singh S
 Study PMC ID	
-Study DOI	
+Study DOI	https://doi.org/10.1091/mbc.E20-12-0784
 
 # Study Contacts
 Study Person Last Name	Way	Kost-Alimova	Harrington	Shibue	Gill	Becker	Hahn	Carpenter	Vazquez	Singh
